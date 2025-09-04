@@ -10,8 +10,9 @@
 
 ## 🌍 Produits – Go Roadmap
 
-| Mission        | Indicateurs clés de succès 📊 | Prochain jalon ⏭️ | Vocation principale                                                                 |
-|----------------|-------------------------------|-------------------|-------------------------------------------------------------------------------------|
-| **SCORE** Sam.     | - Taux d’erreurs de saisie < X%  <br> - Délai moyen de traitement < X jours  <br> - % de satisfaction opérationnels | Validation des premières règles de saisie et test sur un lot pilote | Piloter et sécuriser les contrats de maintenance                                   |
-| **MAESTRO** Liv.   | - Répartition équilibrée de la charge entre centres  <br> - % de demandes traitées dans les délais (OTD)  <br> - % d’adoption et satisfaction opérationnels | Cadrage final des specs et lancement du sprint 1 intégrateur | Centraliser et fluidifier la gestion des demandes de maintenance moteurs           |
-| **WORKSCOPE DATA** Léo. | - % de prescriptions correctement appliquées  <br> - Réduction
+| Mission        | Vocation principale                                                                 | Indicateurs clés de succès 📊 | Prochain jalon ⏭️ |
+|----------------|-------------------------------------------------------------------------------------|-------------------------------|-------------------|
+| **SCORE** Sam.     | Piloter et sécuriser les contrats de maintenance                                   | - Taux d’erreurs de saisie < X%  <br> - Délai moyen de traitement < X jours  <br> - % de satisfaction opérationnels | Validation des premières règles de saisie et test sur un lot pilote |
+| **MAESTRO** Liv.   | Centraliser et fluidifier la gestion des demandes de maintenance moteurs           | - Répartition équilibrée de la charge entre centres  <br> - % de demandes traitées dans les délais (OTD)  <br> - % d’adoption et satisfaction opérationnels | Cadrage final des specs et lancement du sprint 1 intégrateur |
+| **WORKSCOPE DATA** Léo. | Suivre et fiabiliser les prescriptions de maintenance                           | - % de prescriptions correctement appliquées  <br> - Réduction des écarts constatés  <br> - Taux de réutilisation des données dans SCORE & MAESTRO | Première extraction de données et analyse des écarts |
+| **SPECTRE DATA** Gri.   | Suivre et capitaliser sur les amendements des manuels de réparation moteurs     | - % de satisfaction des opérationnels sur les améliorations <br> - Niveau d’intérêt pour les prototypes proposés <br> - Budget & durée obtenus pour le prolongement de la mission | Restitution des premiers retours utilisateurs et décision de prolongement |
