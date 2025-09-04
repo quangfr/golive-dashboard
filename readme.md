@@ -12,15 +12,7 @@
 
 | Produit        | Vocation principale                                                                 | Indicateurs clés de succès 📊 |
 |----------------|-------------------------------------------------------------------------------------|-------------------------------|
-| **SCORE** Samuel     | Piloter et sécuriser les contrats de maintenance                                   | • Taux d’erreurs contractuelles < 2%  
-|                |                                                                                     | • Délai de traitement d’un avenant < 5j  
-|                |                                                                                     | • Satisfaction des opérationnels |
-| **MAESTRO** Livier   | Centraliser et fluidifier la gestion des demandes de maintenance moteurs           | • % de demandes traitées dans les délais (OTD)  
-|                |                                                                                     | • Temps moyen de traitement  
-|                |                                                                                     | • Adoption par les planificateurs |
-| **WORKSCOPE** Léonard | Garantir l’application cohérente des prescriptions de maintenance                  | • % de prescriptions correctement appliquées  
-|                |                                                                                     | • Réduction des écarts constatés  
-|                |                                                                                     | • Réutilisation dans SCORE & MAESTRO |
-| **SPECTRE** Grimaud   | Assurer la conformité et la traçabilité des modifications de manuels de réparation | • Délai d’intégration des modifications  
-|                |                                                                                     | • % d’alertes critiques détectées  
-|                |                                                                                     | • Niveau de conformité réglementaire |
+| **SCORE**      | Piloter et sécuriser les contrats de maintenance                                   | - Taux d’erreurs contractuelles < 2%  <br> - Délai de traitement d’un avenant < 5j  <br> - Satisfaction des opérationnels |
+| **MAESTRO**    | Centraliser et fluidifier la gestion des demandes de maintenance moteurs           | - % de demandes traitées dans les délais (OTD)  <br> - Temps moyen de traitement  <br> - Adoption par les planificateurs |
+| **WORKSCOPE**  | Garantir l’application cohérente des prescriptions de maintenance                  | - % de prescriptions correctement appliquées  <br> - Réduction des écarts constatés  <br> - Réutilisation dans SCORE & MAESTRO |
+| **SPECTRE**    | Assurer la conformité et la traçabilité des modifications de manuels de réparation | - Délai d’intégration des modifications  <br> - % d’alertes critiques détectées  <br> - Niveau de conformité réglementaire |
