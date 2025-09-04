@@ -1,6 +1,6 @@
 ## 🧭 Missions – Suivi consultants
 
-| Projet         | Risque clé 🟢🟡🔴                                   | Opportunité 🌱🪴🌴                                       | Compétence à débloquer                                                                |
+| Projet         | Risque clé 🟢🟡🔴                                   | Opportunité 🌱🪴🌴                                       | Prochaine compétence ⏭️                                                                |
 |----------------|-------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------------------------------------|
 | **SCORE** Sam.     | 🟡 Risque d’orientation trop technique des développements | 🪴 Créer un vrai espace de décision sur la définition des features | PROTOCOP : Assurer simplicité & fluidité dans la conception des features                        |
 | **MAESTRO** Liv.   | 🔴 Spécifications floues sur le périmètre livré   | 🪴 Installer de nouveaux usages au cœur des pratiques | GOAL DIGGER : Préciser la vision produit des premiers sprints intégrateur              |
