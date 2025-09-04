@@ -10,7 +10,7 @@
 
 ## 🌍 Produits – Go Roadmap
 
-| Mission        | Vocation principale                                                                 | Indicateurs clés de succès immédiats 📊 |
+| Mission        | Vocation principale                                                                 | Indicateurs clés de succès 📊 |
 |----------------|-------------------------------------------------------------------------------------|-------------------------------|
 | **SCORE** Samuel     | Piloter et sécuriser les contrats de maintenance                                   | - Taux d’erreurs de saisie <X%  <br> - Délai de traitement d’un contrat < Xj  <br> - % de satisfaction des opérationnels |
 | **MAESTRO** Livier   | Centraliser et fluidifier la gestion des demandes de maintenance moteurs           | - Meilleure répartition de la charge des centres de maintenance   <br> - % de demandes traitées dans les délais opérationnels (OTD)  <br> - % d'adoption et de satisfaction par les opérationnels <br>  |
