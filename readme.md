@@ -10,9 +10,9 @@
 
 ## 🌍 Produits – Go Roadmap
 
-| Produit        | Vocation principale                                                                 | Indicateurs clés de succès 📊 |
+| Mission        | Vocation principale                                                                 | Indicateurs clés de succès immédiats 📊 |
 |----------------|-------------------------------------------------------------------------------------|-------------------------------|
-| **SCORE**      | Piloter et sécuriser les contrats de maintenance                                   | - Taux d’erreurs contractuelles < 2%  <br> - Délai de traitement d’un avenant < 5j  <br> - Satisfaction des opérationnels |
-| **MAESTRO**    | Centraliser et fluidifier la gestion des demandes de maintenance moteurs           | - % de demandes traitées dans les délais (OTD)  <br> - Temps moyen de traitement  <br> - Adoption par les planificateurs |
-| **WORKSCOPE**  | Garantir l’application cohérente des prescriptions de maintenance                  | - % de prescriptions correctement appliquées  <br> - Réduction des écarts constatés  <br> - Réutilisation dans SCORE & MAESTRO |
-| **SPECTRE**    | Assurer la conformité et la traçabilité des modifications de manuels de réparation | - Délai d’intégration des modifications  <br> - % d’alertes critiques détectées  <br> - Niveau de conformité réglementaire |
+| **SCORE** Samuel     | Piloter et sécuriser les contrats de maintenance                                   | - Taux d’erreurs de saisie <X%  <br> - Délai de traitement d’un contrat < Xj  <br> - % Satisfaction des opérationnels |
+| **MAESTRO** Livier   | Centraliser et fluidifier la gestion des demandes de maintenance moteurs           | - Meilleure répartition de la charge des centres de maintenance   <br> - % de demandes traitées dans les délais opérationnels (OTD)  <br> - Adoption et satisfaction par les opérationnels <br>  |
+| **WORKSCOPE DATA** Léonard | Suivre les prescriptions de maintenance                  | - % de prescriptions correctement appliquées  <br> - Réduction des écarts constatés  <br> - Réutilisation dans SCORE & MAESTRO |
+| **SPECTRE DATA** Grimaud   | Suivre les amendements des manuels de réparation des moteurs | - % Satisfaction des opérationnels vis-à-vis des améliorations apportées <br> - Niveau d'intérêt pour les idées de prototypes proposés <br> - Budget et durée du prolongement de la mission |
