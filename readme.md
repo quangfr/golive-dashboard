@@ -1,6 +1,6 @@
 ## 🧭 Missions – Suivi consultants
 
-| Projet         | Risque clé 🟢🟡🔴                                   | Opportunité 🌱🪴🌴                                       | Objectif court terme                                                                 |
+| Projet         | Risque clé 🟢🟡🔴                                   | Opportunité 🌱🪴🌴                                       | Compétence à débloquer                                                                |
 |----------------|-------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------------------------------------|
 | **SCORE** Sam.     | 🟡 Risque d’orientation trop technique des développements | 🪴 Créer un vrai espace de décision sur la définition des features | Assurer simplicité & fluidité dans la conception des features                        |
 | **MAESTRO** Liv.   | 🔴 Spécifications floues sur le périmètre livré   | 🪴 Installer de nouveaux usages au cœur des pratiques | Cadrer les specs & lancer efficacement les premiers sprints intégrateur              |
