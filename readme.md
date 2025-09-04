@@ -1,18 +1,17 @@
-## 🧭 Missions - Suivi consultants
+## 🧭 Missions – Suivi consultants
 
-| Projet         |  Objectif court terme                                                                 | Risque clé 🟢🟡🔴                                | Opportunité 🌱🪴🌴                                  |
-|----------------|---------------------------------------------------------------------------------------|------------------------------------------------|--------------------------------------------------|
-| **SCORE** Sam.     |  Simplicité & facilité d’usage dans la conception des features                         | 🟡 Orientation technique des features développées | 🪴 Latitude pour penser et décider des features    |
-| **MAESTRO** Liv.   |  Cadrage des specs & premiers sprints intégrateur                                      | 🔴 Flou dans les spécifications de ce qui est livré | 🪴 Capacité à poser de nouveaux usages             |
-| **WORKSCOPE** Léo. |  Valoriser le produit via une meilleure traduction des enjeux du terrain                | 🟢 Produit sous-valorisé                          | 🌴 Maîtrise de l'environnement technique          |
-| **SPECTRE** Gri.   |  Identifier opportunités cachées auprès des utilisateurs pour prolonger la mission     | 🔴 Non reconduction de la mission d’un mois       | 🌴 Maîtrise de l'environnement technique & fonctionnel |
+| Projet         | Risque clé 🟢🟡🔴                                   | Opportunité 🌱🪴🌴                                       | Objectif court terme                                                                 |
+|----------------|-------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------------------------------------|
+| **SCORE** Sam.     | 🟡 Risque d’orientation trop technique des développements | 🪴 Créer un vrai espace de décision sur la définition des features | Assurer simplicité & fluidité dans la conception des features                        |
+| **MAESTRO** Liv.   | 🔴 Spécifications floues sur le périmètre livré   | 🪴 Installer de nouveaux usages au cœur des pratiques | Cadrer les specs & lancer efficacement les premiers sprints intégrateur              |
+| **WORKSCOPE** Léo. | 🟢 Produit encore sous-valorisé                  | 🌴 Positionner comme référentiel grâce à la maîtrise technique | Valoriser le produit via une meilleure traduction des enjeux terrain                 |
+| **SPECTRE** Gri.   | 🔴 Mission limitée à un mois, risque de non-reconduction | 🌴 Valoriser expertise technique & fonctionnelle pour sécuriser le prolongement | Détecter les opportunités cachées auprès des utilisateurs pour prolonger la mission |
 
 
 ## 🌍 Produits – Go Roadmap
 
-| Mission        | Vocation principale                                                                 | Indicateurs clés de succès 📊 |
-|----------------|-------------------------------------------------------------------------------------|-------------------------------|
-| **SCORE** Sam.     | Piloter et sécuriser les contrats de maintenance                                   | - Taux d’erreurs de saisie <X%  <br> - Délai de traitement d’un contrat < Xj  <br> - % de satisfaction des opérationnels |
-| **MAESTRO** Liv.   | Centraliser et fluidifier la gestion des demandes de maintenance moteurs           | - Meilleure répartition de la charge des centres de maintenance   <br> - % de demandes traitées dans les délais opérationnels (OTD)  <br> - % d'adoption et de satisfaction par les opérationnels <br>  |
-| **WORKSCOPE DATA** Léo. | Suivre les prescriptions de maintenance                  | - % de prescriptions correctement appliquées  <br> - Réduction des écarts constatés  <br> - Réutilisation dans SCORE & MAESTRO |
-| **SPECTRE DATA** Gri.   | Suivre les amendements des manuels de réparation des moteurs | - % de satisfaction des opérationnels vis-à-vis des améliorations apportées <br> - Niveau d'intérêt pour les idées de prototypes proposés <br> - Budget et durée du prolongement de la mission |
+| Mission        | Indicateurs clés de succès 📊 | Prochain jalon ⏭️ | Vocation principale                                                                 |
+|----------------|-------------------------------|-------------------|-------------------------------------------------------------------------------------|
+| **SCORE** Sam.     | - Taux d’erreurs de saisie < X%  <br> - Délai moyen de traitement < X jours  <br> - % de satisfaction opérationnels | Validation des premières règles de saisie et test sur un lot pilote | Piloter et sécuriser les contrats de maintenance                                   |
+| **MAESTRO** Liv.   | - Répartition équilibrée de la charge entre centres  <br> - % de demandes traitées dans les délais (OTD)  <br> - % d’adoption et satisfaction opérationnels | Cadrage final des specs et lancement du sprint 1 intégrateur | Centraliser et fluidifier la gestion des demandes de maintenance moteurs           |
+| **WORKSCOPE DATA** Léo. | - % de prescriptions correctement appliquées  <br> - Réduction
