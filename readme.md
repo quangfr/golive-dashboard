@@ -1,4 +1,4 @@
-## 🧭 Synthèse consultants
+## 🧭 Missions - Suivi consultants
 
 | Projet         |  Objectif court terme                                                                 | Risque clé 🟢🟡🔴                                | Opportunité 🌱🌿🌳                                  |
 |----------------|---------------------------------------------------------------------------------------|------------------------------------------------|--------------------------------------------------|
@@ -8,7 +8,7 @@
 | **SPECTRE** Grimaud   |  Identifier opportunités cachées auprès des utilisateurs pour prolonger la mission     | 🔴 Non reconduction de la mission d’un mois       | 🌳 Maîtrise de l'environnement technique & fonctionnel |
 
 
-## 🌍 Produits – Vocation & Indicateurs de succès
+## 🌍 Produits – Go Roadmap
 
 | Produit        | Vocation principale                                                                 | Indicateurs clés de succès 📊 |
 |----------------|-------------------------------------------------------------------------------------|-------------------------------|
