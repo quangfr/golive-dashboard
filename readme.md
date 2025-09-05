@@ -1,3 +1,5 @@
+Dernière Màj : 05/09/2025
+
 ## 🧭 Missions – Suivi consultants
 
 | Projet         | Risque clé 🟢🟡🔴                                   | Opportunité 🌱🪴🌴                                       | Prochaine compétence ⏭️                                                                |
