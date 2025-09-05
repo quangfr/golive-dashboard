@@ -2,10 +2,10 @@
 
 | Projet         | Risque clé 🟢🟡🔴                                   | Opportunité 🌱🪴🌴                                       | Prochaine compétence ⏭️                                                                |
 |----------------|-------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------------------------------------|
-| **SCORE** Sam.     | 🟡 Risque d’orientation trop technique des développements | 🪴 Créer un vrai espace de décision sur la définition des features | ⚙️PROTOCOP : Assurer simplicité & fluidité dans la conception des features                        |
+| **SCORE** Sam.     | 🟡 Risque d’orientation trop technique des développements | 🪴 Créer un vrai espace de conception des features | ⚙️PROTOCOP : Assurer simplicité & fluidité dans la conception des features                        |
 | **MAESTRO** Liv.   | 🔴 Spécifications floues sur le périmètre livré   | 🪴 Installer de nouveaux usages au cœur des pratiques | 📍GOAL DIGGER : Préciser la vision produit des premiers sprints intégrateur              |
-| **WORKSCOPE** Léo. | 🟢 Produit encore sous-valorisé                  | 🌴 Positionner comme référentiel grâce à la maîtrise technique | 📍GOAL DIGGER : Valoriser le produit via une meilleure traduction des enjeux métiers                 |
-| **SPECTRE** Gri.   | 🔴 Mission limitée à un mois, risque de non-reconduction | 🌴 Valoriser expertise technique & fonctionnelle pour sécuriser le prolongement | ⚙️PROTOCOP : Détecter les opportunités cachées auprès des utilisateurs pour prolonger la mission |
+| **WORKSCOPE** Léo. | 🟢 Produit orienté data sous-valorisé                  | 🌴 Créer un espace d'échange avec les opérationnels | 📍GOAL DIGGER : Valoriser le produit via une meilleure traduction des enjeux métiers                 |
+| **SPECTRE** Gri.   | 🔴 Mission limitée à un mois, risque de non-reconduction | 🌴 Valoriser la capacité d'innovation pour sécuriser le prolongement | ⚙️PROTOCOP : Détecter les opportunités cachées auprès des utilisateurs pour prolonger la mission |
 
 
 ## 🌍 Produits – Go Roadmap
